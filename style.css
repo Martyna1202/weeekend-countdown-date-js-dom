@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(118, 22, 89);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+main{
+    text-align: center;
+    width: 80%;
+    height: 100vh;
+    margin: 50px auto;
+    padding: 50px;
+    border-radius: 12px;
+    box-shadow: 5px 5px 15px 15px rgb(87, 16, 66);
+    background-color: rgba(214, 50, 165, 0.5);
+}
+
+form > input{
+    padding: 10px 20px;
+    border-radius: 6px;
+    background-color: rgb(91, 244, 244);
+    font-size: 1em;
+    text-transform: uppercase;
+}
